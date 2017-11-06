@@ -1,4 +1,4 @@
-def say_hello(name="Alex")!
-  puts "Hello #{name}"
+def say_hello(name="Alex")
+  puts "Hello #{name}!"
 end
-say_hello(name="Alex")!
+say_hello(name="Alex")
